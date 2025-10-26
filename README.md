@@ -3,12 +3,12 @@
 📖 A collection of philosophy essays written during my undergraduate degree. <br>
 ⚠️ This is for view-only. No copying, distribution, or modification is allowed. ⚠️ <br>
 
-(Some details have been ommited for privacy reasons) <br>
+(Some details have been omitted for privacy reasons) <br>
 
 ## 🗂️ Collection Structure
-- **Ethics** - A morte é um mal para quem morre? (Is death bad for the person who dies?) <br>
+- **01.Ethics** - A morte é um mal para quem morre? (Is death bad for the person who dies?) <br>
   - exploring the nature of harm and applications <br>
-- **Philosophy of Mind** - What is the explanatory gap and what problem does it pose to cognitive science? Can this problem be solved? <br>
+- **02.Philosophy of Mind** - What is the explanatory gap and what problem does it pose to cognitive science? Can this problem be solved? <br>
   - exploring some relevant issues in contemporary philosophy of mind <br>
 
 ## 🎯 Purpose
