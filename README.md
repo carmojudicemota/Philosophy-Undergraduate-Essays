@@ -10,6 +10,9 @@
   - exploring the nature of harm and applications <br>
 - **02.Philosophy of Mind** - What is the explanatory gap and what problem does it pose to cognitive science? Can this problem be solved? <br>
   - exploring some relevant issues in contemporary philosophy of mind <br>
+- **03.Modern Philosophy** - Hume e a arte de não ser enganado, Uma análise crítica de "Dos Milagres" (Hume and the art of not being fooled, A critical analysis of "Of Miracles")
+  - critically assessing Hume's "Of Miracles" and the essay's implications in modern epistemology
+
 
 ## 🎯 Purpose
 - Academic portfolio
