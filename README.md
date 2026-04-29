@@ -1,23 +1,61 @@
-# Philosophy-Undergraduate-Essays
+# Philosophy Undergraduate Essays
 
-📖 A collection of philosophy essays written during my undergraduate degree. <br>
-⚠️ This is for view-only. No copying, distribution, or modification is allowed. ⚠️ <br>
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![Status: Archived](https://img.shields.io/badge/Status-Undergraduate%20Portfolio-blue)]()
+[![Language: English/Português](https://img.shields.io/badge/Language-English%20%26%20Portuguese-green)]()
 
-(Some details have been omitted for privacy reasons) <br>
+**A portfolio of philosophical writing from my undergraduate degree (2023–2027).**  
+These essays represent my original work at the time of submission. Philosophical perspectives evolve, some positions I may now approach differently.
 
-## 🗂️ Collection Structure
-- **01.Ethics** - A morte é um mal para quem morre? (Is death bad for the person who dies?) <br>
-  - exploring the nature of harm and applications <br>
-- **02.Philosophy of Mind** - What is the explanatory gap and what problem does it pose to cognitive science? Can this problem be solved? <br>
-  - exploring some relevant issues in contemporary philosophy of mind <br>
-- **03.Modern Philosophy** - Hume e a arte de não ser enganado, Uma análise crítica de "Dos Milagres" (Hume and the art of not being fooled, A critical analysis of "Of Miracles")
-  - critically assessing Hume's "Of Miracles" and the essay's implications in modern epistemology
+---
+
+## 📚 Essays
+
+### 1. Philosophy of Mind – The Explanatory Gap
+**Grade:** 19/20 | **Language:** English
+
+> *What is the explanatory gap, and what problem does it pose for cognitive science? Can this problem be solved?*
+
+📄 [Essay PDF](./essays/02_philosophy_of_mind/Philosophy_of_Mind_-_Essay.pdf)  
+
+---
+
+### 3. Ethics – Is Death Bad for the Person Who Dies?
+**Grade:** 20/20 | **Language:** Portuguese
+
+> *Exploring the nature of harm, the deprivation account, and Lucretius' symmetry argument.*
+
+📄 [Essay PDF](./essays/01_ethics/Ensaio_Ética.pdf)
+
+---
+
+### 4. Modern Philosophy – David Hume's "Of Miracles"
+**Grade:** 19/20 | **Language:** Português
+
+> *A critical analysis of Hume's argument against miracles, assessing its epistemological foundations and modern relevance.*
+
+📄 [Essay PDF](./essays/03_modern_philosophy/moderna_ensaio.pdf)
 
 
-## 🎯 Purpose
-- Academic portfolio
-- Knowledge sharing
-- Demonstration of philosophical reasoning and writing skills
+---
 
-## 📝 Note
-These essays were submitted for academic assessment at Faculdade de Letras da Universidade de Lisboa between 2023-2027. They represent my original work and thinking at the time that they were written. Philosophical prespectives are constantly evolving. Some positions I might have argued for I may now approach differently.
+## 📌 Purpose
+
+This repository serves as:
+- **Academic portfolio** 
+- **Demonstration** of philosophical reasoning, analytical writing, and interdisciplinary thinking
+
+---
+
+## 📝 License
+
+These essays are my original work. You are welcome to read and cite them for academic purposes.  
+Please do not reproduce, distribute, or submit them as your own.
+
+**Citation format:** Mota, M. do C. J. (2023–2027). *Philosophy Undergraduate Essays* [GitHub repository]. https://github.com/carmojudicemota/Philosophy-Undergraduate-Essays
+
+---
+
+## 📬 Contact
+
+Questions or academic inquiries: carmojudicemota@gmail.com
