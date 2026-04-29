@@ -14,7 +14,7 @@
 
 > *What is the explanatory gap, and what problem does it pose for cognitive science? Can this problem be solved?*
 
-📄 [Essay PDF](./essays/02_philosophy_of_mind/Philosophy_of_Mind_Essay.pdf)  
+📄 [Philosphy of Mind Essay PDF](essays/02_philosophy_of_mind/Philosophy_of_Mind_Essay.pdf)  
 
 ---
 
@@ -23,7 +23,7 @@
 
 > *Exploring the nature of harm, the deprivation account and Lucretius' symmetry argument.*
 
-📄 [Essay PDF](./essays/01_ethics/Ensaio_Ética.pdf)
+📄 [Ethics Essay PDF](essays/01_ethics/Ensaio_Ética.pdf)
 
 ---
 
@@ -32,7 +32,7 @@
 
 > *A critical analysis of Hume's argument against miracles and its epistemological implications.*
 
-📄 [Essay PDF](./essays/03_modern_philosophy/moderna_ensaio.pdf)
+📄 [Modern Philosophy Essay PDF](essays/01_ethics/Ensaio_Ética.pdf)
 
 
 
