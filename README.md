@@ -1,11 +1,9 @@
 # Philosophy Undergraduate Essays
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Status: Archived](https://img.shields.io/badge/Status-Undergraduate%20Portfolio-blue)]()
-[![Language: English/Português](https://img.shields.io/badge/Language-English%20%26%20Portuguese-green)]()
+[![Status: Portfolio](https://img.shields.io/badge/Status-Undergraduate%20Portfolio-blue)]()
 
-**A portfolio of philosophical writing from my undergraduate degree (2023–2027).**  
-These essays represent my original work at the time of submission. Philosophical perspectives evolve, some positions I may now approach differently.
+**A portfolio of philosophical writing from my undergraduate degree (2023–2027).**
 
 ---
 
@@ -16,25 +14,27 @@ These essays represent my original work at the time of submission. Philosophical
 
 > *What is the explanatory gap, and what problem does it pose for cognitive science? Can this problem be solved?*
 
-📄 [Essay PDF](./essays/02_philosophy_of_mind/Philosophy_of_Mind_-_Essay.pdf)  
+📄 [Essay PDF](./essays/02_philosophy_of_mind/Philosophy_of_Mind_Essay.pdf)  
 
 ---
 
-### 3. Ethics – Is Death Bad for the Person Who Dies?
+### 2. Ethics – Is Death Bad for the Person Who Dies?
 **Grade:** 20/20 | **Language:** Portuguese
 
-> *Exploring the nature of harm, the deprivation account, and Lucretius' symmetry argument.*
+> *Exploring the nature of harm, the deprivation account and Lucretius' symmetry argument.*
 
 📄 [Essay PDF](./essays/01_ethics/Ensaio_Ética.pdf)
 
 ---
 
-### 4. Modern Philosophy – David Hume's "Of Miracles"
+### 3. Modern Philosophy – Hume's "Of Miracles"
 **Grade:** 19/20 | **Language:** Português
 
-> *A critical analysis of Hume's argument against miracles, assessing its epistemological foundations and modern relevance.*
+> *A critical analysis of Hume's argument against miracles and its epistemological implications.*
 
 📄 [Essay PDF](./essays/03_modern_philosophy/moderna_ensaio.pdf)
+
+
 
 
 ---
