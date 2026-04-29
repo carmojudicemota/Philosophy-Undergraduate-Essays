@@ -6,35 +6,17 @@
 **A portfolio of philosophical writing from my undergraduate degree (2023–2027).**
 
 ---
-
 ## 📚 Essays
 
-### 1. Philosophy of Mind – The Explanatory Gap
-**Grade:** 19/20 | **Language:** English
+| Grade | Title & Question | Language |
+|:-----:|:----------------|:--------:|
+| **20/20** | **Ethics** – *Is death bad for the person who dies?* <br> *The deprivation account & Lucretius' symmetry argument* | 🇵🇹 Portuguese |
+| **19/20** | **Philosophy of Mind** – *The Explanatory Gap* <br> *What problem does it pose for cognitive science — and can it be solved?* | 🇬🇧 English |
+| **19/20** | **Modern Philosophy** – *Hume's "Of Miracles"* <br> *A critical analysis of Hume's argument and its epistemological implications* | 🇵🇹 Portuguese |
 
-> *What is the explanatory gap, and what problem does it pose for cognitive science? Can this problem be solved?*
-
-📄 <a href="./essays/02_philosophy_of_mind/Philosophy%20of%20Mind%20-%20Essay.pdf">Philosophy of Mind Essay PDF</a>
-
----
-
-### 2. Ethics – Is Death Bad for the Person Who Dies?
-**Grade:** 20/20 | **Language:** Portuguese
-
-> *Exploring the nature of harm, the deprivation account and Lucretius' symmetry argument.*
-
-📄 [Ethics Essay PDF](essays/01_ethics/Ensaio_%C3%89tica.pdf)
-
----
-
-### 3. Modern Philosophy – Hume's "Of Miracles"
-**Grade:** 19/20 | **Language:** Português
-
-> *A critical analysis of Hume's argument against miracles and its epistemological implications.*
-
-📄 <a href="essays/03_modern_philosophy/moderna_ensaio.pdf">Modern Philosophy Essay PDF</a>
-
-
+📄 [→ Ethics Essay PDF](essays/01_ethics/Ensaio_%C3%89tica.pdf) • 
+📄 [→ Philosophy of Mind PDF](essays/02_philosophy_of_mind/Philosophy%20of%20Mind%20-%20Essay.pdf) • 
+📄 [→ Modern Philosophy PDF](essays/03_modern_philosophy/moderna_ensaio.pdf)
 
 ---
 
