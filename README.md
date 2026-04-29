@@ -14,8 +14,7 @@
 
 > *What is the explanatory gap, and what problem does it pose for cognitive science? Can this problem be solved?*
 
-📄 [Philosphy of Mind Essay PDF](essays/02_philosophy_of_mind/Philosophy_of_Mind_Essay.pdf)  
-
+📄 [Philosophy of Mind Essay](./essays/02_philosophy_of_mind/Philosophy%20of%20Mind%20-%20Essay.pdf)
 ---
 
 ### 2. Ethics – Is Death Bad for the Person Who Dies?
