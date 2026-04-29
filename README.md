@@ -23,8 +23,7 @@
 
 > *Exploring the nature of harm, the deprivation account and Lucretius' symmetry argument.*
 
-📄 <a href="essays/01_ethics/Ensaio_%C3%89tica.pdf">Ethics Essay PDF</a>
-
+📄 [Ethics Essay PDF](essays/01_ethics/Ensaio_%C3%89tica.pdf)
 
 ---
 
