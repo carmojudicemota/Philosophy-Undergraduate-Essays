@@ -14,7 +14,8 @@
 
 > *What is the explanatory gap, and what problem does it pose for cognitive science? Can this problem be solved?*
 
-📄 [Philosophy of Mind Essay](./essays/02_philosophy_of_mind/Philosophy%20of%20Mind%20-%20Essay.pdf)
+📄 <a href="./essays/02_philosophy_of_mind/Philosophy%20of%20Mind%20-%20Essay.pdf">Philosophy of Mind Essay PDF</a>
+
 ---
 
 ### 2. Ethics – Is Death Bad for the Person Who Dies?
@@ -22,7 +23,7 @@
 
 > *Exploring the nature of harm, the deprivation account and Lucretius' symmetry argument.*
 
-📄 [Ethics Essay PDF](essays/01_ethics/Ensaio_Ética.pdf)
+📄 <a href="essays/01_ethics/Ensaio_Ética.pdf">Ethics Essay PDF</a>
 
 ---
 
@@ -31,8 +32,7 @@
 
 > *A critical analysis of Hume's argument against miracles and its epistemological implications.*
 
-📄 [Modern Philosophy Essay PDF](essays/01_ethics/Ensaio_Ética.pdf)
-
+📄 <a href="essays/03_modern_philosophy/moderna_ensaio.pdf">Modern Philosophy Essay PDF</a>
 
 
 
