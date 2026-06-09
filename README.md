@@ -18,7 +18,7 @@
 📄 [→ Ethics Essay PDF](essays/01_ethics/Ethics_Essay.pdf) • 
 📄 [→ Philosophy of Mind PDF](essays/02_philosophy_of_mind/Philosophy%20of%20Mind%20-%20Essay.pdf) • 
 📄 [→ Modern Philosophy PDF](essays/03_modern_philosophy/moderna_ensaio.pdf)
-📄 [→ Philosophy of Mathematics PDF](essays/04_Philosophy_of_Mathematics_Essay.pdf)
+📄 [→ Philosophy of Mathematics PDF](essays/04_philosophy_of_mathematics/Philosophy_of_Mathematics_Essay.pdf)
 
 ---
 
