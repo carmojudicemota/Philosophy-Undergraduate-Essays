@@ -8,17 +8,13 @@
 ---
 ## 📚 Essays
 
-| Grade | Title & Question | Language |
-|:-----:|:----------------|:--------:|
-| **20/20** | **Philosophy of Mathematics** - *What problem does the existence of indiscernible elements pose for ante rem structuralism?* | 🇬🇧 English |
-| **20/20** | **Ethics** – *Is death bad for the person who dies?* <br> *The nature of harm, deprivation account & Lucretius' symmetry argument* | 🇵🇹 Portuguese |
-| **19/20** | **Philosophy of Mind** – *The Explanatory Gap* <br> *What problem does it pose for cognitive science? Can it be solved?* | 🇬🇧 English |
-| **19/20** | **Modern Philosophy** – *Hume's "Of Miracles"* <br> *A critical analysis of Hume's argument and its epistemological implications* | 🇵🇹 Portuguese |
 
-📄 [→ Ethics Essay PDF](essays/01_ethics/Ethics_Essay.pdf) • 
-📄 [→ Philosophy of Mind PDF](essays/02_philosophy_of_mind/Philosophy%20of%20Mind%20-%20Essay.pdf) • 
-📄 [→ Modern Philosophy PDF](essays/03_modern_philosophy/moderna_ensaio.pdf)
-📄 [→ Philosophy of Mathematics PDF](essays/04_philosophy_of_mathematics/Philosophy_of_Mathematics_Essay.pdf)
+| Grade | Title & Question | Language | PDF |
+|:-----:|:----------------|:--------:|:---:|
+| **20/20** | **Philosophy of Mathematics** – *What problem does the existence of indiscernible elements pose for ante rem structuralism?* | 🇬🇧 ENG | [📄 View](essays/04_philosophy_of_mathematics/Philosophy_of_Mathematics_Essay.pdf) |
+| **20/20** | **Ethics** – *Is death bad for the person who dies?* <br> *The nature of harm, the deprivation account, and Lucretius' symmetry argument* | 🇵🇹 PT | [📄 View](essays/01_ethics/Ethics_Essay.pdf) |
+| **19/20** | **Philosophy of Mind** – *The Explanatory Gap* <br> *What problem does it pose for cognitive science? Can it be solved?* | 🇬🇧 ENG | [📄 View](essays/02_philosophy_of_mind/Philosophy_of_Mind_Essay.pdf) |
+| **19/20** | **Modern Philosophy** – *Hume's "Of Miracles"* <br> *A critical analysis of Hume's argument and its epistemological implications* | 🇵🇹 PT | [📄 View](essays/03_modern_philosophy/Modern_Philosophy_Essay.pdf) |
 
 ---
 
