@@ -10,6 +10,7 @@
 
 | Grade | Title & Question | Language |
 |:-----:|:----------------|:--------:|
+| **20/20** | **Philosphy of Mathematics** - *What porblem does the existence of indescirnible elements pose for ante rem structuralism* | 🇬🇧 English |
 | **20/20** | **Ethics** – *Is death bad for the person who dies?* <br> *The nature of harm, deprivation account & Lucretius' symmetry argument* | 🇵🇹 Portuguese |
 | **19/20** | **Philosophy of Mind** – *The Explanatory Gap* <br> *What problem does it pose for cognitive science? Can it be solved?* | 🇬🇧 English |
 | **19/20** | **Modern Philosophy** – *Hume's "Of Miracles"* <br> *A critical analysis of Hume's argument and its epistemological implications* | 🇵🇹 Portuguese |
